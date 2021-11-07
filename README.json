@@ -21,14 +21,8 @@
 {
          "name": "SINGAPORE(5)_FREE",
          "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-14.ovpn"
-      },
-
-
-
-
-
-
-   ],
+      }
+ ],
 "message":"update: 2/11/2021\n \nConfig version: 7.0\n Update News: - Added Vip Server \n \n",
    "title":"New config update available" ,
    "version": 7
