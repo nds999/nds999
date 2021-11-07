@@ -19,6 +19,11 @@
          "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-6.ovpn"
       },
 {
+         "name": "SINGAPORE(6)_VIP",
+         "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/client-tcp.ovpn"
+      
+      },
+{
          "name": "SINGAPORE(5)_FREE",
          "url": "https://raw.githubusercontent.com/FlashVPN7/Flashvpn/main/SG-14.ovpn"
       }
