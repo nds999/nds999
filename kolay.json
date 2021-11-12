@@ -5,6 +5,11 @@
          "name": "SINGAPORE(1)_VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/sgzero.ovpn"
 
+      },
+{
+         "name": "SINGAPORE(2)_VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/sgboom.ovpn"
+      
       }
  ],
 "message":"update: 2/11/2021\n \nConfig version: 7.0\n Update News: - Added Vip Server \n \n",
