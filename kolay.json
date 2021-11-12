@@ -10,9 +10,14 @@
          "name": "SINGAPORE(2)_VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/sgboom.ovpn"
       
+      },
+{
+         "name": "SINGAPORE(3)_VIP",
+         "url": "https://github.com/nds999/nds999/raw/main/03.LAZADA.ovpn"
+      
       }
  ],
-"message":"update: 2/11/2021\n \nConfig version: 7.0\n Update News: - Added Vip Server \n \n",
+"message":"update: 1.0\n \nConfig version: 7.0\n Update News: - Added Vip Server \n \n",
    "title":"New config update available" ,
    "version": 7
 }
