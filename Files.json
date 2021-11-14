@@ -16,12 +16,19 @@
          "url": "https://nds999.000webhostapp.com/03.LAZADA.ovpn"
       
 },
+
+ {
+       "name": "04.Dtac-HappyWork_Free",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/03.HappyWork.ovpn"
+},
+
 {
-         "name": "04.True-NoPro-VIP",
+         "name": "05.True-NoPro-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/tak/fuck.ovpn"
 }
+
  ],
-"message":"Config files\n4files\nenjoy😗\n",
+"message":"New added config files\nNew added DTAC-HappyWork\nNew added True-NoPro\nenjoy😗\n",
    "title":"New config update available" ,
-   "version": 3
+   "version": 4
 }
