@@ -3,12 +3,12 @@
 
 {
          "name": "Dtac-Lazada-FREE1",
-         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_01.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_05.ovpn"
 },
 
 {
          "name": "Dtac-Lazada-FREE2",
-         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_02.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_06.ovpn"
 },
 {
        "name": "Dtac-HappyWork-FREE1",
