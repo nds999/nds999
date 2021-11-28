@@ -29,6 +29,10 @@
          "url": "https://kguza.net/web/file/maine/Dtac_Line_05.ovpn"
       },
 {
+       "name": "Dtac-Line12Apps-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-free2.ovpn"
+      },
+{
        "name": "Dtac-Line12Apps-VIP1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-vip.ovpn"
       },
@@ -40,5 +44,5 @@
  ],
 "message":"Added VIP-VPS Servers\n\nDTAC-Lazada\nDTAC-HappyWork\nDTAC-Line12Apps\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 37
+   "version": 38
 }
