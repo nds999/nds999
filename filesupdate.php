@@ -39,10 +39,14 @@
 {
        "name": "True-NoPro-FREE1",
          "url": "https://kguza.net/web/file/maine/True_05.ovpn"
+      },
+{
+       "name": "True-NoPro-FREE2",
+         "url": "https://kguza.net/web/file/maine/True_06.ovpn"
       }
       
  ],
 "message":"Added VIP-VPS Servers\n\nDTAC-Lazada\nDTAC-HappyWork\nDTAC-Line12Apps\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 38
+   "version": 39
 }
