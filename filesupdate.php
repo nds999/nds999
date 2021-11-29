@@ -37,6 +37,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-vip.ovpn"
       },
 {
+       "name": "Dtac-Social-FREE1",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free1ovpn"
+      },
+{
        "name": "True-NoPro-FREE1",
          "url": "https://kguza.net/web/file/maine/True_05.ovpn"
       },
@@ -46,7 +50,7 @@
       }
       
  ],
-"message":"Added VIP-VPS Servers\n\nDTAC-Lazada\nDTAC-HappyWork\nDTAC-Line12Apps\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
+"message":"Added VIP-VPS Servers\n\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 39
+   "version": 40
 }
