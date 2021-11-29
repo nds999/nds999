@@ -9,6 +9,10 @@
          "url": "https://pastebin.com/raw/Rf4SMWDW"
 },
 {
+       "name": "Dtac-HappyWork-FREE3",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/hw2.ovpn"
+},
+{
        "name": "Dtac-HappyWork-VIP1",
          "url": "https://pastebin.com/raw/Wys5zr8p"
 },
@@ -51,10 +55,14 @@
 {
        "name": "True-NoPro-FREE3",
          "url": "https://kguza.net/web/file/maine/True_06.ovpn"
-      }
+      },
+{
+       "name": "True-NoPro-FREE4",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/true-nopro-free2.ovpn"
+}
       
  ],
 "message":"Added VIP-VPS Servers\n\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 41
+   "version": 42
 }
