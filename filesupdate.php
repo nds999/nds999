@@ -62,7 +62,7 @@
 }
       
  ],
-"message":"Added VIP-VPS Servers\n\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
+"message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 42
+   "version": 43
 }
