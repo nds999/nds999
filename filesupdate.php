@@ -2,14 +2,10 @@
    "files": [   
 {
        "name": "Dtac-HappyWork-FREE1",
-         "url": "https://pastebin.com/raw/PsQHmSHf"
-},
-{
-       "name": "Dtac-HappyWork-FREE2",
          "url": "https://pastebin.com/raw/Rf4SMWDW"
 },
 {
-       "name": "Dtac-HappyWork-FREE3",
+       "name": "Dtac-HappyWork-FREE2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/hw2.ovpn"
 },
 {
@@ -18,14 +14,6 @@
 },
 {
          "name": "Dtac-Lazada-FREE1",
-         "url": "https://pastebin.com/raw/84gvyBMn"
-},
-{
-       "name": "Dtac-Lazada-FREE2",
-         "url": "https://pastebin.com/raw/PJ7mtsnL"
-},
-{
-         "name": "Dtac-Lazada-FREE3",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-vip.ovpn"
 },
 {
@@ -64,5 +52,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 43
+   "version": 44
 }
