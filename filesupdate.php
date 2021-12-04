@@ -17,6 +17,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-vip.ovpn"
 },
 {
+         "name": "Dtac-Lazada-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free1.ovpn"
+},
+{
        "name": "Dtac-Line12Apps-FREE1",
          "url": "https://kguza.net/web/file/maine/Dtac_Line_05.ovpn"
       },
@@ -52,5 +56,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 45
+   "version": 46
 }
