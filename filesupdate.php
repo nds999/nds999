@@ -33,6 +33,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free1ovpn"
       },
 {
+       "name": "Dtac-Social-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free2.ovpn"
+      },
+{
        "name": "True-NoPro-FREE1",
          "url": "https://kguza.net/web/file/maine/True_05.ovpn"
       },
