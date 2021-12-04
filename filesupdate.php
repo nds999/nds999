@@ -9,8 +9,8 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/hw2.ovpn"
 },
 {
-       "name": "Dtac-HappyWork-VIP1",
-         "url": "https://pastebin.com/raw/Wys5zr8p"
+       "name": "Dtac-HappyWork-FREE3",
+         "url": "https://pastebin.com/raw/rrXn04ZD"
 },
 {
          "name": "Dtac-Lazada-FREE1",
@@ -25,8 +25,8 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-free2.ovpn"
       },
 {
-       "name": "Dtac-Line12Apps-VIP1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-vip.ovpn"
+       "name": "Dtac-Line12Apps-FREE3",
+         "url": "https://pastebin.com/raw/DvKMHKR8"
       },
 {
        "name": "Dtac-Social-FREE1",
@@ -34,23 +34,19 @@
       },
 {
        "name": "True-NoPro-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro-free1.ovpn"
-      },
-{
-       "name": "True-NoPro-FREE2",
          "url": "https://kguza.net/web/file/maine/True_05.ovpn"
       },
 {
-       "name": "True-NoPro-FREE3",
+       "name": "True-NoPro-FREE2",
          "url": "https://kguza.net/web/file/maine/True_06.ovpn"
       },
 {
-       "name": "True-NoPro-FREE4",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/true-nopro-free2.ovpn"
+       "name": "True-NoPro-FREE3",
+         "url": "https://pastebin.com/raw/tPYtSgC1"
 }
       
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nFast connection⚡\n\n Thank you for using😊\n",
    "title":"New config update available",
-   "version": 44
+   "version": 45
 }
