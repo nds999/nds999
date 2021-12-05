@@ -2,7 +2,7 @@
    "files": [   
 {
        "name": "Dtac-HappyWork-FREE1",
-         "url": "https://pastebin.com/raw/Rf4SMWDW"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/hw-free1.ovpn"
 },
 {
        "name": "Dtac-HappyWork-FREE2",
