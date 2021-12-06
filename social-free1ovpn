@@ -4,9 +4,7 @@
 #
 # Experimental Config only
 # Examples demonstrated below on how to Play with OHPServer
-#Created:2021-11-29
-#Expired:2021-12-06
-
+# Expired 2021-12-14
 client
 dev tun
 persist-tun
@@ -60,7 +58,7 @@ auth-nocache
 cipher none
 setenv CLIENT_CERT 0
 <auth-user-pass>
-microssh-fnetvpnfree
+microssh-social1
 112233
 </auth-user-pass>
 <ca>
