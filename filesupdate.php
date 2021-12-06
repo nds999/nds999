@@ -25,6 +25,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free3.ovpn"
 },
 {
+         "name": "Dtac-Lazada-FREE4",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free4.ovpn"
+},
+{
        "name": "Dtac-Line12Apps-FREE1",
          "url": "https://kguza.net/web/file/maine/Dtac_Line_05.ovpn"
       },
