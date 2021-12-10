@@ -33,7 +33,7 @@
          "url": "https://kguza.net/web/file/maine/Dtac_Line_05.ovpn"
       },
 {
-       "name": "Dtac-Line12Apps-FREE3",
+       "name": "Dtac-Line12Apps-FREE2",
          "url": "https://pastebin.com/raw/DvKMHKR8"
       },
 {
@@ -60,5 +60,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 53
+   "version": 54
 }
