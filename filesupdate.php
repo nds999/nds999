@@ -13,6 +13,10 @@
          "url": "https://pastebin.com/raw/rrXn04ZD"
 },
 {
+       "name": "Dtac-HappyWork-VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/hw-vip1.ovpn"
+},
+{
          "name": "Dtac-Lazada-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-vip.ovpn"
 },
@@ -29,6 +33,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free4.ovpn"
 },
 {
+       "name": "Dtac-Lazada-VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-vip1.ovpn"
+},
+{
        "name": "Dtac-Line12Apps-FREE1",
          "url": "https://kguza.net/web/file/maine/Dtac_Line_05.ovpn"
       },
@@ -36,6 +44,10 @@
        "name": "Dtac-Line12Apps-FREE2",
          "url": "https://pastebin.com/raw/DvKMHKR8"
       },
+      {
+       "name": "Dtac-Line12Apps-VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app.vps.vip.ovpn"
+},
 {
        "name": "Dtac-Social-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free1ovpn"
@@ -60,5 +72,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 54
+   "version": 55
 }
