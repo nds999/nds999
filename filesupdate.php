@@ -44,6 +44,10 @@
        "name": "Dtac-Line12Apps-FREE2",
          "url": "https://pastebin.com/raw/DvKMHKR8"
       },
+{
+       "name": "Dtac-Line12Apps-FREE3",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/us.line12apps.free3.ovpn"
+      },
       {
        "name": "Dtac-Line12Apps-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app.vps.vip.ovpn"
@@ -72,5 +76,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 55
+   "version": 56
 }
