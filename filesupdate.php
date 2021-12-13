@@ -42,7 +42,7 @@
       },
 {
        "name": "Dtac-Line12Apps-FREE2",
-         "url": "https://pastebin.com/raw/DvKMHKR8"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-free02.ovpn"
       },
 {
        "name": "Dtac-Line12Apps-FREE3",
