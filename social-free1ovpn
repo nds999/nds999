@@ -1,10 +1,11 @@
-# OpenVPN Server build v2.5.3
+# OpenVPN Server build v2.5.4
 # Server Location: SG, Singapore
-# Server ISP: Scloud Pte Ltd
+# Server ISP: DigitalOcean, LLC
 #
 # Experimental Config only
 # Examples demonstrated below on how to Play with OHPServer
-# Expired 2021-12-14
+#
+
 client
 dev tun
 persist-tun
@@ -12,36 +13,25 @@ proto tcp
 
 # We can play this one, put any host on the line
 # remote anyhost.com anyport
-# remote www.google.com.ph 443
+#remote 206.189.146.170:443@eastusr-notifyp.svc.ms 443 tcp-client
 #
 # We can also play with CRLFs
-#remote "HEAD https://ajax.googleapis.com HTTP/1.1/r/n/r/n"
+remote "HEAD https://ajax.googleapis.com HTTP/1.1/r/n/r/n"
 # Every types of Broken remote line setups/crlfs/payload are accepted, just put them inside of double-quotes
-remote "https://beetalkmobile.com"
+#remote "www.bing.com"
 ## use this line to modify OpenVPN remote port (this will serve as our fake ovpn port)
 port 443
 
 # This proxy uses as our main forwarder for OpenVPN tunnel.
-http-proxy 165.154.232.190 8087
+http-proxy 206.189.146.170 8087
 
 # We can also play our request headers here, everything are accepted, put them inside of a double-quotes.
-http-proxy-option CUSTOM-HEADER Host www.opensignal.com
-http-proxy-option VERSION 1.1
-http-proxy-option AGENT Chrome/80.0.3987.87
-dhcp-option DNS "8.8.8.8"
-dhcp-option DNS "8.8.4.4"
-dhcp-option DNS "2001:4860:4860::8888"
-dhcp-option DNS "2001:4860:4860::8844"
-dhcp-option DNS "208.67.222.222"
-dhcp-option DNS "208.67.220.220"
-dhcp-option DNS "2a0d:2a00:1::2"
-dhcp-option DNS "2a0d:2a00:2::2"
-dhcp-option DNS "2602:fcbc::ad"
-dhcp-option DNS "2001:4800:780e:510:a8cf:392e:ff04:8982"
-dhcp-option DNS "2620:fe::fe"
-dhcp-option DNS "2620:fe::9"
-setenv FRIENDLY_NAME "SG"
-setenv USERNAME "SOCIAL"
+http-proxy-option EXT1 ""
+http-proxy-option EXT1 "POST https://beetalkmobile.com HTTP/1.0"
+<auth-user-pass>
+micronethub-gyuio
+free
+</auth-user-pass>
 persist-remote-ip
 resolv-retry infinite
 connect-retry 0 1
@@ -57,10 +47,6 @@ auth none
 auth-nocache
 cipher none
 setenv CLIENT_CERT 0
-<auth-user-pass>
-microssh-social1
-112233
-</auth-user-pass>
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIEDzCCA3igAwIBAgIUSGN7T9XnPmvTetMRgAy0qNm7+94wDQYJKoZIhvcNAQEL
