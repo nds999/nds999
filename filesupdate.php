@@ -9,10 +9,6 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/hw2.ovpn"
 },
 {
-       "name": "Dtac-HappyWork-FREE3",
-         "url": "https://pastebin.com/raw/rrXn04ZD"
-},
-{
        "name": "Dtac-HappyWork-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/hw-vip1.ovpn"
 },
@@ -23,14 +19,6 @@
 {
          "name": "Dtac-Lazada-FREE2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free1.ovpn"
-},
-{
-         "name": "Dtac-Lazada-FREE3",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free3.ovpn"
-},
-{
-         "name": "Dtac-Lazada-FREE4",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free4.ovpn"
 },
 {
        "name": "Dtac-Lazada-VIP",
@@ -70,7 +58,7 @@
       },
 {
        "name": "True-NoPro-FREE3",
-         "url": "https://pastebin.com/raw/tPYtSgC1"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro-free3.ovpn"
 }
       
  ],
