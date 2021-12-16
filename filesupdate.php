@@ -18,7 +18,7 @@
 },
 {
          "name": "Dtac-Lazada-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free1.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_05.ovpn"
 },
 {
        "name": "Dtac-Lazada-VIP",
