@@ -30,7 +30,7 @@
       },
 {
        "name": "Dtac-Line12Apps-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-free02.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Line_06.ovpn"
       },
 {
        "name": "Dtac-Line12Apps-FREE3",
