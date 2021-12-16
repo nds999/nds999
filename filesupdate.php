@@ -45,10 +45,6 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free1ovpn"
       },
 {
-       "name": "Dtac-Social-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free2.ovpn"
-      },
-{
        "name": "True-NoPro-FREE1",
          "url": "https://kguza.net/web/file/maine/True_05.ovpn"
       },
@@ -62,7 +58,7 @@
 }
       
  ],
-"message":"VIP 30day 40baht\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"VIP 1Month 40baht\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 58
+   "version": 59
 }
