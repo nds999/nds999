@@ -60,5 +60,5 @@
  ],
 "message":"VIP 1Month 40baht\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 59
+   "version": 60
 }
