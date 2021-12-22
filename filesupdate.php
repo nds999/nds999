@@ -9,6 +9,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/hw2.ovpn"
 },
 {
+       "name": "Dtac-HappyWork-FREE3",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/hw3.ovpn"
+},
+{
          "name": "Dtac-Lazada-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-vip.ovpn"
 },
