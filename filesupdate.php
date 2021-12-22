@@ -29,6 +29,10 @@
          "url": "https://kguza.net/web/file/maine/Dtac_Line_06.ovpn"
       },
 {
+       "name": "Dtac-Line12Apps-FREE3",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps-vps3.ovpn"
+      },
+{
        "name": "Dtac-Social-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/social-free1ovpn"
       },
@@ -43,5 +47,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nDTAC-Social\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 61
+   "version": 62
 }
