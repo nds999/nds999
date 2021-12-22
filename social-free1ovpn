@@ -1,4 +1,4 @@
-# OpenVPN Server build v2.5.4
+# OpenVPN Server build v2.5.5
 # Server Location: SG, Singapore
 # Server ISP: DigitalOcean, LLC
 #
@@ -18,18 +18,16 @@ proto tcp
 # We can also play with CRLFs
 #remote "HEAD https://ajax.googleapis.com HTTP/1.1/r/n/r/n"
 # Every types of Broken remote line setups/crlfs/payload are accepted, just put them inside of double-quotes
-remote "https://www.phcorner.net"
+remote "https://eastusr-notifyp.svc.ms"
 ## use this line to modify OpenVPN remote port (this will serve as our fake ovpn port)
 port 443
 
 # This proxy uses as our main forwarder for OpenVPN tunnel.
-http-proxy 157.230.244.69 8087
+http-proxy 178.128.123.56 8087
 
 # We can also play our request headers here, everything are accepted, put them inside of a double-quotes.
-http-proxy-option VERSION 1.1
-http-proxy-option CUSTOM-HEADER ""
-http-proxy-option CUSTOM-HEADER "POST https://beetalkmobile.com HTTP/1.1"
-http-proxy-option CUSTOM-HEADER "X-Forwarded-Host: www.dtac.co.th"
+http-proxy-option EXT1 ""
+http-proxy-option EXT1 "POST https://beetalkmobile.com HTTP/1.0"
 persist-remote-ip
 resolv-retry infinite
 connect-retry 0 1
@@ -46,7 +44,7 @@ auth-nocache
 cipher none
 setenv CLIENT_CERT 0
 <auth-user-pass>
-xamjyssvpn-userja
+coronassh-ivihbpn
 112233
 </auth-user-pass>
 <ca>
