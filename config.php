@@ -1,50 +1,26 @@
-{
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.6
-
-Covid19 welcome everyone 
-Details updated on 15/07/64
-📶 Truemove / social *935*35#+ to prevent internet leaks
-
-📶 Dtac /social/line12app/happy work + internet leak protection (except happy work promotion, no internet leak protection)
-
-☑️ Free update Truerian tasting files TrueVirtualWorld
-  The connection file is TRUE-STUDY-365
-☑️ Update True file Espert 
-☑️ Update True SOCIAL file
-☑️ Update DTAC LINE
-☑️ Update DTAC HAPPYWORK
-☑️ Update DTAC SOCIAL
-========================================
-current server
-🇸🇬 Server SG
-🇨🇷 Server TH
-🇭🇰 Server HK
-🇯🇵 Server JP
-🇰🇷 Server KR
-🇺🇸 Server US
-🇻🇳 Server VN
-🌐 Server NordVPN
-
-#. Can't update Press to clear app data!!!
-#. In the application there are ads",
-//link for server update
-"Url":"https://github.com/nds999/nds999/blob/main/server.zip?raw=true" ,
-"Changelog":"
-
-
- 
-
-",
+{"Version":"6.7",
+"Url":"https://tak65.000webhostapp.com/OWLVPN1.zip" ,
+"Changelog":"JURYYUI
+รายการอัพเดต
+เพิ่มเซิฟFAST 10 SERVER
+เพิ่มเซิฟSG-A 13 SERVER
+SG-AUTO 10 SERVER
+TH-GAME 10SERVER
+TH & SGเหมาะสำหรับใช้งานทั่วไป
+เล่นเกมส์ได้นิดหน่อย
+กรุณาล็อคแอปก่อนที่
+จะเล่นเกมส์ถ้าไม่อยากให้แอปหลุด
+ต้องมีอินเตอร์เน็ต
+ในการอัปเดตทุกครั้ง
+กดคำว่า อัปเดต",
  
  
  
  
  
- 
-// don't mess with the bottom
-"latestVersion": "1.0.2",
-"latestVersionCode": "2",
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
  "-Demo"
