@@ -29,7 +29,7 @@ current server
 #. Can't update Press to clear app data!!!
 #. In the application there are ads",
 //link for server update
-"Url":"https://tak65.000webhostapp.com/OWLVPN1.zip" ,
+"Url":"https://github.com/nds999/nds999/blob/main/OWLOVPN1.zip?raw=true" ,
 "Changelog":"
 
 
