@@ -35,5 +35,5 @@
  ],
 "message":"VPS -VIP Server 30Days - 30Baht\n\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 65
+   "version": 66
 }
