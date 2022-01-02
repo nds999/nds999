@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1
+"Version":"10
 
 Covid19 welcome everyone 
 Details updated on 15/07/64
