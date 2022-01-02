@@ -43,8 +43,8 @@ current server
  
  
 // don't mess with the bottom
-"latestVersion": "1.0.2",
-"latestVersionCode": "2",
+"latestVersion": "",
+"latestVersionCode": "",
 "url": "",
  "releaseNotes": [
  "-Demo"
