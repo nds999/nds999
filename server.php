@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.5
+"Version":"1.6
 
 Covid19 welcome everyone 
 Details updated on 15/07/64
@@ -10,7 +10,7 @@ Details updated on 15/07/64
 
 ☑️ Free update Truerian tasting files TrueVirtualWorld
   The connection file is TRUE-STUDY-365
-☑️ Update True file Espert 
+☑️ Update DTAC LINE
 ☑️ Update True SOCIAL file
 ☑️ Update DTAC LINE
 ☑️ Update DTAC HAPPYWORK
