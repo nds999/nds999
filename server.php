@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.20
+"Version":"1.25
 
 ☑️ Update DTAC LINE
 ☑️ Update True SOCIAL file
@@ -15,7 +15,6 @@ current server
 #. In the application there are ads",
 //link for server update
 "Url":"https://github.com/nds999/nds999/blob/main/server.zip?raw=true" ,
-"Changelog":"FUCK",
 
 // don't mess with the bottom
 "latestVersion": "1.0.10",
