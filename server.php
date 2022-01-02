@@ -1,15 +1,7 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.6
+"Version":"1.10
 
-Covid19 welcome everyone 
-Details updated on 15/07/64
-📶 Truemove / social *935*35#+ to prevent internet leaks
-
-📶 Dtac /social/line12app/happy work + internet leak protection (except happy work promotion, no internet leak protection)
-
-☑️ Free update Truerian tasting files TrueVirtualWorld
-  The connection file is TRUE-STUDY-365
 ☑️ Update DTAC LINE
 ☑️ Update True SOCIAL file
 ☑️ Update DTAC LINE
@@ -18,13 +10,7 @@ Details updated on 15/07/64
 ========================================
 current server
 🇸🇬 Server SG
-🇨🇷 Server TH
-🇭🇰 Server HK
-🇯🇵 Server JP
-🇰🇷 Server KR
-🇺🇸 Server US
-🇻🇳 Server VN
-🌐 Server NordVPN
+
 
 #. Can't update Press to clear app data!!!
 #. In the application there are ads",
