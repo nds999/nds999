@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.25
+"Version":"1.30
 
 ☑️ Update DTAC LINE
 ☑️ Update True SOCIAL file
