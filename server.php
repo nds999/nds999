@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"10
+"Version":"1.5
 
 Covid19 welcome everyone 
 Details updated on 15/07/64
@@ -43,8 +43,8 @@ current server
  
  
 // don't mess with the bottom
-"latestVersion": "",
-"latestVersionCode": "",
+"latestVersion": "1.0.10",
+"latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
  "-Demo"
