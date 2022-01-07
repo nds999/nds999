@@ -13,19 +13,19 @@
          "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
 },
 {
-         "name": "TH-Dtac-Lazada-FREE",
+         "name": "SG-Dtac-Lazada-FREE",
          "url": "https://kguza.net/web/file/maine/Dtac..Lazada..07.ovpn"
 },
 {
          "name": "US-Dtac-Lazada-FREE",
-         "url": "https://kguza.net/web/file/maine/Dtac..Lazada..07.ovpn"
+         "url": "https://tak65.000webhostapp.com/us-lazada.ovpn"
 },
 {
        "name": "SG-Dtac-Line12Apps-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/line12apps-vip1.ovpn"
       },
 {
-       "name": "TH-Dtac-Line12Apps-FREE",
+       "name": "SG-Dtac-Line12Apps-FREE",
          "url": "https://kguza.net/web/file/maine/Dtac..Line..07.ovpn"
       },
 {
@@ -33,11 +33,11 @@
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
       },
 {
-       "name": "TH-True-NoPro-FREE",
+       "name": "SG-True-NoPro-FREE",
          "url": "https://kguza.net/web/file/maine/True..07.ovpn"
       }
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 71
+   "version": 72
 }
