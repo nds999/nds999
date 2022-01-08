@@ -14,7 +14,7 @@
 },
 {
          "name": "SG-Dtac-Lazada-FREE",
-         "url": "https://kguza.net/web/file/maine/Dtac..Lazada..07.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada1.ovpn"
 },
 {
          "name": "US-Dtac-Lazada-FREE",
@@ -26,7 +26,7 @@
       },
 {
        "name": "SG-Dtac-Line12Apps-FREE",
-         "url": "https://kguza.net/web/file/maine/Dtac..Line..07.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
       },
 {
        "name": "SG-True-NoPro-VPS-VIP",
@@ -34,10 +34,10 @@
       },
 {
        "name": "SG-True-NoPro-FREE",
-         "url": "https://kguza.net/web/file/maine/True..07.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"Includes free new servers\n\n DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 72
+   "version": 73
 }
