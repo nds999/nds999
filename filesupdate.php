@@ -29,8 +29,12 @@
          "url": "https://tak65.000webhostapp.com/line12apps-vip1.ovpn"
       },
 {
-       "name": "SG-Dtac-Line12Apps-FREE",
+       "name": "SG-Dtac-Line12Apps-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
+      },
+{
+       "name": "SG-Dtac-Line12Apps-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app2.ovpn"
       },
 {
        "name": "SG-True-NoPro-VPS-VIP",
