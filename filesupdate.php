@@ -13,8 +13,12 @@
          "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
 },
 {
-         "name": "SG-Dtac-Lazada-FREE",
+         "name": "SG-Dtac-Lazada-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada1.ovpn"
+},
+{
+         "name": "SG-Dtac-Lazada-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free2.ovpn"
 },
 {
          "name": "US-Dtac-Lazada-FREE",
@@ -45,7 +49,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"Includes free new servers\n\n DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"Includes free new vps servers\n\n DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 74
+   "version": 75
 }
