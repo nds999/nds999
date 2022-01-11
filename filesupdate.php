@@ -30,6 +30,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
       },
 {
+       "name": "SG-Dtac-NoPro-VPS-VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
+      },
+{
        "name": "SG-True-NoPro-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
       },
@@ -38,7 +42,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"Includes free new vps servers\n\n DTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"Includes free new vps servers\n\nNew added DTAC-NoPro\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 76
+   "version": 77
 }
