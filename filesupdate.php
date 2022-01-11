@@ -27,7 +27,7 @@
       },
 {
        "name": "SG-Dtac-NoPro-FREE",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.ovpn"
       },
 {
        "name": "SG-Dtac-NoPro-VPS-VIP",
@@ -44,5 +44,5 @@
  ],
 "message":"Includes free new vps servers\n\nNew added DTAC-NoPro\nDTAC-HappyWork\nDTAC-Lazada\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 77
+   "version": 78
 }
