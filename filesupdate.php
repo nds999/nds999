@@ -14,23 +14,20 @@
 },
 {
          "name": "SG-Dtac-Lazada-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada1.ovpn"
-},
-{
-         "name": "SG-Dtac-Lazada-FREE2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free2.ovpn"
 },
 {
        "name": "SG-Dtac-Line12Apps-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/line12apps-vip1.ovpn"
       },
+
 {
        "name": "SG-Dtac-Line12Apps-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app2.ovpn"
       },
 {
-       "name": "SG-Dtac-Line12Apps-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app2.ovpn"
+       "name": "SG-Dtac-NoPro-FREE",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12apps1.ovpn"
       },
 {
        "name": "SG-True-NoPro-VPS-VIP",
