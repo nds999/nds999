@@ -61,10 +61,6 @@
        "name": "Dtac-NoPro-FREE9",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.ovpn"
       },
-{
-       "name": "Dtac-NoPro-FREE10",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
-      },
 
 {
        "name": "Dtac-NoPro-VPS-VIP",
@@ -81,5 +77,5 @@
  ],
 "message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 83
+   "version": 84
 }
