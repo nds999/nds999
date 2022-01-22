@@ -1,72 +1,50 @@
 client
 dev tun
-proto tcp
-#
-#remote 45.40.54.50:1443@app.dtac.co.th 1443 tcp-client
-remote 45.40.54.50:1443@app.dtac.co.th 1443
+remote DTAC-TRUE 9 udp
+<auth-user-pass>
+zerovpn
+2022
+</auth-user-pass>
 http-proxy 103.22.182.153 3128
-resolv-retry infinite
-remote-random
-nobind
-tun-mtu 1500
-tun-mtu-extra 32
-mssfix 1450
+#remote "**********" zero
+http-proxy-option VERSION 1.1
+http-proxy-option CUSTOM-HEADER "Host: app-test.dtac.co.th"
+http-proxy-option CUSTOM-HEADER "X-Online-Host: www.opensignal.com.cdn.cloudflare.net"
+http-proxy-option CUSTOM-HEADER "X-Forward-Host: www.opensignal.com.cdn.cloudflare.net"
+http-proxy-option CUSTOM-HEADER "Connection: Keep-Alive" 15 45
+proto tcp
 persist-key
 persist-tun
-ping 15
-ping-restart 0
-ping-timer-rem
-reneg-sec 0
-
-remote-cert-tls server
-
-<auth-user-pass>
-pCqPUZRtKV82AQ2pTSTETZZj
-VRTJNXnEbzc4zc9kTtAp2Uhx
-</auth-user-pass>
-
-#comp-lzo
+resolv-retry infinite
+nobind
 verb 3
-pull
-fast-io
-cipher AES-256-CBC
-
-auth SHA512
+cipher AES-128-CBC
+auth SHA256
+remote-cert-tls server
+key-direction 1
+tls-client
 
 <ca>
 -----BEGIN CERTIFICATE-----
-MIIFTTCCAzWgAwIBAgIJAMs9S3fqwv+mMA0GCSqGSIb3DQEBCwUAMD0xCzAJBgNV
-BAYTAlZHMRIwEAYDVQQKDAlTdXJmc2hhcmsxGjAYBgNVBAMMEVN1cmZzaGFyayBS
-b290IENBMB4XDTE4MDMxNDA4NTkyM1oXDTI4MDMxMTA4NTkyM1owPTELMAkGA1UE
-BhMCVkcxEjAQBgNVBAoMCVN1cmZzaGFyazEaMBgGA1UEAwwRU3VyZnNoYXJrIFJv
-b3QgQ0EwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDEGMNj0aisM63o
-SkmVJyZPaYX7aPsZtzsxo6m6p5Wta3MGASoryRsBuRaH6VVa0fwbI1nw5ubyxkua
-Na4v3zHVwuSq6F1p8S811+1YP1av+jqDcMyojH0ujZSHIcb/i5LtaHNXBQ3qN48C
-c7sqBnTIIFpmb5HthQ/4pW+a82b1guM5dZHsh7q+LKQDIGmvtMtO1+NEnmj81BAp
-FayiaD1ggvwDI4x7o/Y3ksfWSCHnqXGyqzSFLh8QuQrTmWUm84YHGFxoI1/8AKdI
-yVoB6BjcaMKtKs/pbctk6vkzmYf0XmGovDKPQF6MwUekchLjB5gSBNnptSQ9kNgn
-TLqi0OpSwI6ixX52Ksva6UM8P01ZIhWZ6ua/T/tArgODy5JZMW+pQ1A6L0b7egIe
-ghpwKnPRG+5CzgO0J5UE6gv000mqbmC3CbiS8xi2xuNgruAyY2hUOoV9/BuBev8t
-tE5ZCsJH3YlG6NtbZ9hPc61GiBSx8NJnX5QHyCnfic/X87eST/amZsZCAOJ5v4EP
-SaKrItt+HrEFWZQIq4fJmHJNNbYvWzCE08AL+5/6Z+lxb/Bm3dapx2zdit3x2e+m
-iGHekuiE8lQWD0rXD4+T+nDRi3X+kyt8Ex/8qRiUfrisrSHFzVMRungIMGdO9O/z
-CINFrb7wahm4PqU2f12Z9TRCOTXciQIDAQABo1AwTjAdBgNVHQ4EFgQUYRpbQwyD
-ahLMN3F2ony3+UqOYOgwHwYDVR0jBBgwFoAUYRpbQwyDahLMN3F2ony3+UqOYOgw
-DAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAn9zV7F/XVnFNZhHFrt0Z
-S1Yqz+qM9CojLmiyblMFh0p7t+Hh+VKVgMwrz0LwDH4UsOosXA28eJPmech6/bjf
-ymkoXISy/NUSTFpUChGO9RabGGxJsT4dugOw9MPaIVZffny4qYOc/rXDXDSfF2b+
-303lLPI43y9qoe0oyZ1vtk/UKG75FkWfFUogGNbpOkuz+et5Y0aIEiyg0yh6/l5Q
-5h8+yom0HZnREHhqieGbkaGKLkyu7zQ4D4tRK/mBhd8nv+09GtPEG+D5LPbabFVx
-KjBMP4Vp24WuSUOqcGSsURHevawPVBfgmsxf1UCjelaIwngdh6WfNCRXa5QQPQTK
-ubQvkvXONCDdhmdXQccnRX1nJWhPYi0onffvjsWUfztRypsKzX4dvM9k7xnIcGSG
-EnCC4RCgt1UiZIj7frcCMssbA6vJ9naM0s7JF7N3VKeHJtqe1OCRHMYnWUZt9vrq
-X6IoIHlZCoLlv39wFW9QNxelcAOCVbD+19MZ0ZXt7LitjIqe7yF5WxDQN4xru087
-FzQ4Hfj7eH1SNLLyKZkA1eecjmRoi/OoqAt7afSnwtQLtMUc2bQDg6rHt5C0e4dC
-LqP/9PGZTSJiwmtRHJ/N5qYWIh9ju83APvLm/AGBTR2pXmj9G3KdVOkpIC7L35dI
-623cSEC3Q3UZutsEm/UplsM=
+MIIDKzCCAhOgAwIBAgIJAPk/Guo5AM6AMA0GCSqGSIb3DQEBCwUAMBMxETAPBgNV
+BAMTCENoYW5nZU1lMB4XDTE3MDMzMDA3MTQzN1oXDTI3MDMyODA3MTQzN1owEzER
+MA8GA1UEAxMIQ2hhbmdlTWUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDIgXnKHt04goAbUK8E++FOyaEfkyktRQVSrxKzwQ3xmPGei3x4E5aSCa47MAym
+QcHSnDlJQGmR4OfHiGqhuwmTxi5U42W0GViSRGsEJIpkdtAHykh8FC5T4fOUzML3
+hs8YkvraeA2W7sSUYuS/m21LIS9n4FyamewONKRgtc+H/GhDD65nlgR5n20lrdIz
+2L9H5IZB6EjrjLuM9TGIsdalrvhWGgUBUpgf2Oh5kH4PdA2+8WY+kd3HVhmLo60e
+FyTxKdIS/72BHAh52zH4mSV7AmgwwIsNRadyTrEFQWg7Jl0trbFIOd3pHkD8jEYe
+gW8TUaeRdzulhVHStoV39qobAgMBAAGjgYEwfzAdBgNVHQ4EFgQUMFU6R/ZNlHvf
+jbRg0dYO4eQ46kQwQwYDVR0jBDwwOoAUMFU6R/ZNlHvfjbRg0dYO4eQ46kShF6QV
+MBMxETAPBgNVBAMTCENoYW5nZU1lggkA+T8a6jkAzoAwDAYDVR0TBAUwAwEB/zAL
+BgNVHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggEBADEkL11AUEX8WpiB0Zw5m1id
++QIKxnHCFml/9dDvjQyN+umXYt1alo36bqtKX+29gFSWhLdP5An//Fj1rxGEG90v
+TFSTzZa4dj87Kw6PIZKF8Uad1aW5gr6QLK1nruoRksaJOaY/Z0YMLWtIdwTDcHo9
+AkXK6ffCbWyb26piApixaMIdE4c7WvlTIm+b7WbcILS1YzuNxH/QVbFBJP4y0sJL
+fBQmbtn6dp1aUmvAIig88t6wcMvkMmz9AiOdJ4xvEvRxvMzhTrjH2zO2qP6CRTwA
+H/YIA4pisVgc8tGbdBLQ9qcEmB9knQVB3cWPjkqxWenDjRTD0vVKqiyZAlv4lqw=
 -----END CERTIFICATE-----
 </ca>
-key-direction 1
 <key>
 -----BEGIN PRIVATE KEY-----
 MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNZ1+MvqEkjLcB
@@ -97,6 +75,7 @@ Mh74IzHP4t++pnObX1Kq/jYyCg4qFWIEWzzQLCrpQjPyCMnGT5I1TKl5EjJGiFam
 iQK5dTnrBOL8H83f1Lot4z52
 -----END PRIVATE KEY-----
 </key>
+remote "remote.zerovpn.ydns.eu:443@app.dtac.co.th"
 <cert>
 Certificate:
     Data:
@@ -185,23 +164,23 @@ XZmH3sZF2WA=
 <tls-auth>
 #
 # 2048 bit OpenVPN static key
-#
+# 
 -----BEGIN OpenVPN Static key V1-----
-b02cb1d7c6fee5d4f89b8de72b51a8d0
-c7b282631d6fc19be1df6ebae9e2779e
-6d9f097058a31c97f57f0c35526a44ae
-09a01d1284b50b954d9246725a1ead1f
-f224a102ed9ab3da0152a15525643b2e
-ee226c37041dc55539d475183b889a10
-e18bb94f079a4a49888da566b9978346
-0ece01daaf93548beea6c827d9674897
-e7279ff1a19cb092659e8c1860fbad0d
-b4ad0ad5732f1af4655dbd66214e552f
-04ed8fd0104e1d4bf99c249ac229ce16
-9d9ba22068c6c0ab742424760911d463
-6aafb4b85f0c952a9ce4275bc821391a
-a65fcd0d2394f006e3fba0fd34c4bc4a
-b260f4b45dec3285875589c97d3087c9
-134d3a3aa2f904512e85aa2dc2202498
+e94c539a0ea5f1f3c4edbc8c998fe76a
+637ca7aa8ecf3401ec6d5609e22331bf
+73b04de83598c510f631132db25fd6d6
+3648665729c818e226ab77e01e7d0140
+8252abfbd66ee2e8bc08e60f258f08bd
+7f367e3e3b08059d3f8924538e7ee396
+e69017697e86c7e7dacd7cd57133acb6
+c3533b94075b69a52ebe0120319ed34a
+e19073d4c690a4678bebfc3a3cec527c
+2f7ca9acdfd43952856226b6dfca004f
+80ac279a88131fc5c5e070f14dfda8b8
+6fe490c68d70b22cc6c6821226959123
+8f8394768bd3c039e826f55df08c893c
+6038be66e0599e61456684602bb11f8a
+9f8827bf4409421d9fd44ae80064fa03
+592381d6333a49662ccf7518e4bcdbb8
 -----END OpenVPN Static key V1-----
 </tls-auth>
