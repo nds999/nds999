@@ -5,7 +5,7 @@
          "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
 },
 {
-         "name": "Dtac-Lazada-FREE1",
+         "name": "Dtac-Lazada-FREE",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/lazada-free2.ovpn"
 },
 {
@@ -14,14 +14,17 @@
       },
 
 {
-       "name": "Dtac-Line12Apps-FREE1",
+       "name": "Dtac-Line12Apps-FREE",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app2.ovpn"
       },
 {
-       "name": "Dtac-NoPro-FREE",
+       "name": "Dtac-NoPro-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.ovpn"
       },
-
+{
+       "name": "Dtac-NoPro-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
+      },
 {
        "name": "Dtac-NoPro-VPS-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
@@ -35,7 +38,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"DTAC-HappyWork\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"DTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 88
+   "version": 89
 }
