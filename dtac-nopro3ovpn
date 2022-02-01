@@ -20,7 +20,7 @@ setenv opt block-outside-dns
 key-direction 1
 verb 3
 <auth-user-pass>
-vpsfree1
+vpsfree3
 tak1
 </auth-user-pass>
 keepalive 10 120
