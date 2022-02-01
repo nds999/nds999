@@ -19,15 +19,15 @@
       },
 {
        "name": "Dtac-NoPro-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.ovpn"
-      },
-{
-       "name": "Dtac-NoPro-FREE2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
       },
 {
+       "name": "Dtac-NoPro-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro2.ovpn"
+      },
+{
        "name": "Dtac-NoPro-FREE3",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro2ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro3.ovpn"
       },
 {
        "name": "Dtac-NoPro-VPS-VIP",
