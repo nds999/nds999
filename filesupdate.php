@@ -43,5 +43,5 @@
  ],
 "message":"New VPS Servers\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 91
+   "version": 92
 }
