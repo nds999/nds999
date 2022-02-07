@@ -21,14 +21,6 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
       },
 {
-       "name": "Dtac-NoPro-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro2.ovpn"
-      },
-{
-       "name": "Dtac-NoPro-FREE3",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro3.ovpn"
-      },
-{
        "name": "Dtac-NoPro-VPS-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
@@ -41,7 +33,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"New VPS Servers\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"New VPS Server\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 92
+   "version": 93
 }
