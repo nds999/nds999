@@ -33,7 +33,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
       }
  ],
-"message":"New VPS Server\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"DTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 93
+   "version": 94
 }
