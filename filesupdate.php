@@ -13,10 +13,6 @@
          "url": "https://tak65.000webhostapp.com/line12apps-vip1.ovpn"
       },
 {
-       "name": "Dtac-Line12Apps-FREE",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/line12app2.ovpn"
-      },
-{
        "name": "Dtac-NoPro-FREE1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
       },
@@ -43,5 +39,5 @@
  ],
 "message":"🔰VPS Servers🔰\n1Month - 40Baht\n\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 96
+   "version": 97
 }
