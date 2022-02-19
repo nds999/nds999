@@ -37,7 +37,7 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro2.ovpn"
       }
  ],
-"message":"🔰VPS Servers🔰\n1Month - 40Baht\n\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"🔰VPS Servers🔰\n1Month - 40TB\n\nDTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 98
+   "version": 99
 }
