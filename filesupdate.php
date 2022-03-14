@@ -4,7 +4,6 @@
          "name": "Dtac-Lazada-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
 },
-
 {
        "name": "Dtac-Line12Apps-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/line12apps-vip1.ovpn"
@@ -32,5 +31,5 @@
  ],
 "message":"DTAC-Lazada\nDTAC-NoPro\nDTAC-Line12Apps\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 107
+   "version": 108
 }
