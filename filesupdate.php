@@ -25,6 +25,10 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
 {
+       "name": "True-NoPro-FREE",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/true-nopro1.ovpn"
+      },
+{
        "name": "True-NoPro-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
       }
