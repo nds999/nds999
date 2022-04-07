@@ -35,5 +35,5 @@
  ],
 "message":"DTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 112
+   "version": 113
 }
