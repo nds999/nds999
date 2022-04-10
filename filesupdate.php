@@ -33,7 +33,7 @@
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
       }
  ],
-"message":"DTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 113
+   "version": 114
 }
