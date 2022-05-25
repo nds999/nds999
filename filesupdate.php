@@ -6,7 +6,7 @@
 },
 {
        "name": "DTAC-APN-Multimedia-NoPro-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro2.ovpn"
       },
 {
        "name": "Dtac-NoPro-VPS-VIP",
@@ -23,5 +23,5 @@
  ],
 "message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 116
+   "version": 117
 }
