@@ -6,7 +6,7 @@
 },
 {
        "name": "DTAC-NoPro-FREE",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
+         "url": "https://raw.githubusercontent.com/nds999/nds999/FNET-VPN/Newfile1.ovpn"
       },
 
 {
@@ -33,5 +33,5 @@
  ],
 "message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 121
+   "version": 122
 }
