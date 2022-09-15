@@ -9,6 +9,11 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
 {
+       "name": "Dtac-NoPro-VPS-FREE",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/th.server.ovpn"
+      },
+
+{
        "name": "DTAC-APN-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
@@ -19,5 +24,5 @@
  ],
 "message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 134
+   "version": 135
 }
