@@ -26,11 +26,16 @@
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
 {
+       "name": "DTAC-APN-FREE",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/apn-udp.free.ovpn"
+      },
+
+{
        "name": "True-NoPro-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
       }
  ],
-"message":"Added 3 files for free\nDTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
+"message":"Added 1 files for free\nDTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
    "title":"New config update available",
-   "version": 138
+   "version": 139
 }
