@@ -23,7 +23,7 @@
       }
  ],
 "message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
-      "vcode":"New config version 141",
+      "titles":"New config version 141",
 "title":"New config update available",
    "version": 141
 }
