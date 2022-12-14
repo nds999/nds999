@@ -5,8 +5,12 @@
          "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
 },
 {
-       "name": "Dtac-NoPro-VPS-VIP",
+       "name": "Dtac-NoPro-VPS-VIP1",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
+      },
+{
+       "name": "Dtac-NoPro-VPS-VIP2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro1.ovpn"
       },
 {
        "name": "DTAC-APN-VIP",
@@ -25,5 +29,5 @@
 "message":"DTAC-APN-Multimedia\nDTAC-Lazada\nDTAC-NoPro\nTRUE-NoPro\nQuick connection⚡\nThank you for using😊",
       "titles":"New config version 141",
 "title":"New config update available",
-   "version": 141
+   "version": 142
 }
